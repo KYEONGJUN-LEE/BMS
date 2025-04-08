@@ -18,7 +18,6 @@ book_management/
 │   ├── member_controller.cpp
 │   └── rental_controller.cpp
 ```
-
 ---
 
 ## ⚙️ 빌드 및 실행 방법
